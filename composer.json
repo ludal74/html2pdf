@@ -1,6 +1,6 @@
 {
     "name": "lf-developpement-library/html2pdf",
-    "description": "An assetmanager module for Zend Framework 2.",
+    "description": "An html to pdf format converter lib for Zend Framework 2.",
     "license": "BSD-2-Clause",
     "type": "library",
     "keywords": [
@@ -12,14 +12,13 @@
     "homepage": "https://github.com/ludal74/LfDeveloppementLibrary",
     "authors": [
         {
-            "name": "Ludovic Favre",
-            "email": "ludovic.favre@gmail.com",
-            "homepage": "http://www.ludovic-favre.fr/"
+            "name": "Laurent MINGUET",
+            "email": "",
+            "homepage": "http://html2pdf.fr/"
         }
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*@stable"
     },
     "autoload": {
         "psr-0": {
